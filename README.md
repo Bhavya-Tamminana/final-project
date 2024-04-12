@@ -60,7 +60,7 @@ Smart Contract based Supply Chain Management for Data Integrity and Anti-Tamperi
 
  # SCREENSHOTS
 
-# <p>HOME PAGE  bhavya</p>
+# <p>HOME PAGE  </p>
 
 # ![](Screenshots/Home.png)
 
